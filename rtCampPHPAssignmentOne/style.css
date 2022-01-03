@@ -1,0 +1,45 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.form
+{
+	padding: 50px;
+	padding-top: 150px;
+}
+.form form
+{
+	padding-top: 20px;
+}
+
+.form h1
+{
+	color:#0c66be;
+
+
+
+}
+.form input[type=email]
+{
+	background-color:#ebb402;
+	padding:10px;
+	border-radius:5px;
+	border: 2px solid #0c66be;
+	width:70%;
+	float: left;
+}
+
+.form input[type=submit], .form button
+{
+	background-color:#0c66be;
+	color: #fff;
+	padding:10px;
+	border-radius:5px;
+	border: 2px solid #0c66be;
+	width:25%;
+	margin-left: 20px;
+	float: left;
+}

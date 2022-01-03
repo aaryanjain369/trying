@@ -1,0 +1,29 @@
+[02-Jan-2022 07:42:16 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/email_verification.php on line 30
+[02-Jan-2022 07:42:19 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/email_verification.php on line 30
+[02-Jan-2022 07:42:26 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/email_verification.php on line 30
+[02-Jan-2022 13:40:12 Asia/Kolkata] PHP Warning:  Undefined variable $email in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/email_verification.php on line 56
+[02-Jan-2022 13:41:43 Asia/Kolkata] PHP Warning:  Undefined array key "email" in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/email_verification.php on line 51
+[02-Jan-2022 17:21:33 Asia/kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 6
+[02-Jan-2022 17:22:52 Asia/kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 7
+[02-Jan-2022 17:45:42 Asia/kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 8
+[02-Jan-2022 17:46:15 Asia/kolkata] PHP Warning:  Array to string conversion in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 10
+[02-Jan-2022 17:46:15 Asia/kolkata] PHP Warning:  Array to string conversion in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 10
+[02-Jan-2022 17:46:15 Asia/kolkata] PHP Warning:  Array to string conversion in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 10
+[02-Jan-2022 17:46:15 Asia/kolkata] PHP Warning:  Array to string conversion in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 10
+[02-Jan-2022 17:57:36 Asia/kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 28
+[02-Jan-2022 18:13:42 Asia/kolkata] PHP Warning:  Undefined variable $activationCode in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 57
+[02-Jan-2022 18:13:44 Asia/kolkata] PHP Warning:  Undefined variable $activationCode in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/cron_job.php on line 57
+[02-Jan-2022 18:26:42 Asia/Kolkata] PHP Warning:  Undefined variable $num in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/unsubscribe.php on line 15
+[02-Jan-2022 18:26:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/yfm0ed3u0wnj/public_html/rtCampPHPAssignmentOne/unsubscribe.php on line 15
